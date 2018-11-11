@@ -60,6 +60,13 @@ body {
 .display-7 > .mbr-iconfont {
   font-size: 1.44rem;
 }
+.display-8 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2rem;
+}
+.display-8 > .mbr-iconfont {
+  font-size: 1.8rem;
+}
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
 /* 100vw - current viewport width */
@@ -1859,7 +1866,7 @@ body {
   text-align: center;
 }
 .nav-dropdown .link {
-  padding: 1em 1em !important;
+  padding: 0em 1em !important;
 }
 .menu-logods{
   justify-content: center;
