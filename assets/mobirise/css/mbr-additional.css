@@ -1858,3 +1858,11 @@ body {
 .cid-r93knkUNZB .icons-wrapper {
   text-align: center;
 }
+.nav-dropdown .link {
+  padding: 1em 4em !important;
+}
+.menu-logods{
+  justify-content: center;
+  align-content: center;
+  text-align: right;
+}
