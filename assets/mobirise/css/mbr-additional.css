@@ -1858,6 +1858,7 @@ body {
 .cid-r93knkUNZB .icons-wrapper {
   text-align: center;
 }
+<<<<<<< HEAD
 .nav-dropdown .link {
   padding: 1em 4em !important;
 }
@@ -1866,3 +1867,11 @@ body {
   align-content: center;
   text-align: right;
 }
+=======
+#recuadro-2:hover {
+    
+  border: 1px solid #cfcfcf;
+  
+
+}
+>>>>>>> 6dfc68002417ed5ced75d72ce0c8e7b7d1996e46
